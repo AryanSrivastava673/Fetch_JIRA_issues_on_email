@@ -10,14 +10,14 @@ app = Flask(__name__)
 
 # Jira API configuration
 BASE_URL = 'https://aryansrivastava673.atlassian.net/rest/api/3'
-USERNAME = 'aryansrivastava673@gmail.com'
-API_TOKEN = 'ATATT3xFfGF0phVAUCw2LS0NIlgr3qE0oDTa7ZkWBRdVMkaFZmk9GgWDYpml6T3SYviJfjF3uKhU9QODtbH4aLW9375CdPlhJ0kDsxdyopEObUW8jbzxKkcoOKEyhvfyXBUMrTTE82Bzxz6DPlw6xZw7uDXaC3CWX7m650YD61kPZPxETBx52Q0=86DC972B'
+USERNAME = ''
+API_TOKEN = ''
 
 # SMTP server configuration
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
-SMTP_USERNAME = 'aryansrivastava673@gmail.com'
-SMTP_PASSWORD = 'ejskjmfzzhldogws'
+SMTP_USERNAME = ''
+SMTP_PASSWORD = ''
 
 
 
