@@ -1,0 +1,9 @@
+
+{% for issue in issues %}
+        Issue Key: {{ issue.key }}
+        Summary: {{ issue.summary }}
+        Assignee: {{ issue.assignee }}
+        Due Date: {{ issue.due_date }}
+        URL: {{ issue.url }}
+{% endfor %}
+
